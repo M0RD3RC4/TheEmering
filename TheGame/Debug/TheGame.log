@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\vs-projects\TheGame\TheGame\main.cpp(170,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\vs-projects\TheGame\TheGame\main.cpp(363,15): warning C4244: "argument": konwersja z "double" do "Uint32", możliwa utrata danych
+D:\vs-projects\TheGame\TheGame\main.cpp(421,13): warning C4244: "argument": konwersja z "double" do "Uint32", możliwa utrata danych
+  TheGame.vcxproj -> D:\vs-projects\TheGame\Debug\TheGame.exe
